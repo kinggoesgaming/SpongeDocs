@@ -41,6 +41,7 @@ Contents
     blocks/index
     entities/index
     items/index
+    effects
     injection
     scheduler
     database
