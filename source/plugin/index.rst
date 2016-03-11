@@ -36,6 +36,7 @@ Contents
     text/index
     commands/index
     event/index
+    assets/index
     configuration/index
     data/index
     blocks/index
