@@ -8,7 +8,7 @@ Creating Your Main Plugin Class
 
 .. note::
 
-    The instructions within the Sponge Documentation assume that you have prior knowledge of Java. The Sponge API
+    The instructions within the Sponge Documentation assume that you have prior knowledge of Java. The SpongeAPI
     provides the foundation for you to begin creating plugins for Minecraft servers powered by Sponge; however, it is
     up to you to be creative and make your code work! There are several free Java courses online if you have had little
     experience with Java.
@@ -16,7 +16,7 @@ Creating Your Main Plugin Class
 Starting Your Class
 ===================
 
-The next step after adding the Sponge API as a dependency is creating a new class. The class can be named however you'd
+The next step after adding the SpongeAPI as a dependency is creating a new class. The class can be named however you'd
 like, and can be in any package that does **not** begin with ``org.spongepowered``. By convention, class names should be
 in title case.
 

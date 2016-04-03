@@ -70,7 +70,7 @@ SpongeCommon
   A repository of code common to the official SpongeAPI implementations, used in building them. SpongeVanilla and SpongeForge
   use this repository.
 SpongeForge
-  The implementation of SpongeAPI as a Forge Coremod.
+  The implementation of the SpongeAPI as a Forge Coremod.
 SpongeDocs
   Dedicated and frequently updated documentation, the best source of information on Sponge.
 Sponge Forums
@@ -80,7 +80,7 @@ Sponge Foundation
   The financial side of the project, a separate entity that accepts, manages and distributes donations.
   http://spongefoundation.org/
 SpongeVanilla
-  An implementation of Sponge API that runs on Vanilla Minecraft (and not Forge).
+  An implementation of the SpongeAPI that runs on Vanilla Minecraft (and not Forge).
 Spongie
   The Sponge Mascot, a valiant little Sponge with a red cape.
 Spongy

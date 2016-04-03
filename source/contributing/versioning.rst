@@ -70,7 +70,7 @@ SpongeDocs
 
 The SpongeDocs themselves are unversioned following our philosophy that they will never be finished, but instead in a
 constant flux of ever increasing usability. However they *target* a specific version of the API, generally the most
-recent *release* of SpongeAPI.
+recent *release* of the SpongeAPI.
 
 Core Branch
 ~~~~~~~~~~~

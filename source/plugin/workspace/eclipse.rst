@@ -2,13 +2,13 @@
 Setting Up Eclipse
 ==================
 
-This article describes how to configure your **Eclipse** workspace for plugin development with the Sponge API.
+This article describes how to configure your **Eclipse** workspace for plugin development with the SpongeAPI.
 
 Starting Your Project
 =====================
 
-We recommend using Gradle or Maven when developing plugins with the Sponge API. Gradle and Maven help significantly
-when managing dependencies, such as the Sponge API, for your project. This is preferable to including the ``.jar``
+We recommend using Gradle or Maven when developing plugins with the SpongeAPI. Gradle and Maven help significantly
+when managing dependencies, such as the SpongeAPI, for your project. This is preferable to including the ``.jar``
 file in your project.
 
 Gradle
@@ -36,10 +36,10 @@ You may then proceed to create your project.
 * Click ``Next``.
 * Enter a project name, then click ``Finish``.
 
-**To import the Sponge API as a dependency:**
+**To import the SpongeAPI as a dependency:**
 
 * Open ``build.gradle`` in the navigator.
-* Manually add the :doc:`official Sponge API Maven artifact <dependencies>` as a dependency. An example can be found
+* Manually add the :doc:`official SpongeAPI Maven artifact <dependencies>` as a dependency. An example can be found
   on the aforementioned Artifacts article.
 * Right-click your project, and select ``Gradle > Refresh Dependencies``.
 
@@ -65,11 +65,11 @@ Maven
     Eclipse often does not open new projects after creating them. If this happens, try closing the Eclipse welcome screen;
     your project should be open behind it.
 
-**To import the Sponge API as a dependency:**
+**To import the SpongeAPI as a dependency:**
 
 * Open ``pom.xml`` in the navigator.
 * Click the ``Dependencies`` tab on the bottom, and click ``Add``.
-* Enter the **Group ID**, **Artifact ID**, and **Version** of the :doc:`official Sponge API Maven artifact <dependencies>`.
+* Enter the **Group ID**, **Artifact ID**, and **Version** of the :doc:`official SpongeAPI Maven artifact <dependencies>`.
 * Click ``OK``.
 
 Git Integration

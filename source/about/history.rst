@@ -38,7 +38,7 @@ The development of SpongeForge and the API gained momentum leading to a first AP
 version was far from feature complete and an API-only release, meaning that there was no official implementation available
 at that time.
 
-On December 26th, 2014 the Granite Team decided to limit Granite to the usage of SpongeAPI. That made Granite the first
+On December 26th, 2014 the Granite Team decided to limit Granite to the usage of the SpongeAPI. That made Granite the first
 unofficial Sponge Implementation for Vanilla Minecraft. On March 26th, the Granite Team finally joined the Sponge Team
 and Granite became SpongeVanilla, the official SpongeAPI implementation for Vanilla Minecraft. About a month later the
 unification of the Granite and SpongeForge codebase began in SpongeCommon. SpongeCommon was created to hold all

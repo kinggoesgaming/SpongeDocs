@@ -2,13 +2,13 @@
 Setting Up NetBeans
 ===================
 
-This article describes how to configure your **NetBeans** workspace for plugin development with the Sponge API.
+This article describes how to configure your **NetBeans** workspace for plugin development with the SpongeAPI.
 
 Starting Your Project
 =====================
 
-We recommend using Gradle or Maven when developing plugins with the Sponge API. Gradle and Maven help significantly
-when managing dependencies, such as the Sponge API, for your project. This is preferable to including the ``.jar``
+We recommend using Gradle or Maven when developing plugins with the SpongeAPI. Gradle and Maven help significantly
+when managing dependencies, such as the SpongeAPI, for your project. This is preferable to including the ``.jar``
 file in your project.
 
 Gradle
@@ -38,10 +38,10 @@ You may then proceed to create your project.
 
 * Click ``Finish``.
 
-**To import the Sponge API as a dependency:**
+**To import the SpongeAPI as a dependency:**
 
 * Open ``common.gradle`` under the ``Projects`` tab.
-* Manually add the :doc:`official Sponge API Maven artifact <dependencies>` as a dependency. An example can be found
+* Manually add the :doc:`official SpongeAPI Maven artifact <dependencies>` as a dependency. An example can be found
   on the aforementioned Artifacts article.
 * Right-click your primary project node under the **Projects** tab, and click ``Reload Project``.
 
@@ -65,11 +65,11 @@ Maven
 * Enter a **package**, if you please. This is optional.
 * Click ``Finish`` upon completion of the text fields.
 
-**To import the Sponge API as a dependency:**
+**To import the SpongeAPI as a dependency:**
 
 * Right-click on the ``Dependencies`` node under the **Projects** tab, which is on the left by default.
 * Click ``Add Dependency``.
-* Enter the **Group ID**, **Artifact ID**, and **Version** of the :doc:`official Sponge API Maven artifact <dependencies>`.
+* Enter the **Group ID**, **Artifact ID**, and **Version** of the :doc:`official SpongeAPI Maven artifact <dependencies>`.
 * Click ``Add``.
 
 Git Integration

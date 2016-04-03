@@ -2,7 +2,7 @@
 Working with Entities
 =====================
 
-Entities are a huge part of Minecraft, and the Sponge API in general.
+Entities are a huge part of Minecraft, and the SpongeAPI in general.
 
 .. toctree::
     :maxdepth: 2

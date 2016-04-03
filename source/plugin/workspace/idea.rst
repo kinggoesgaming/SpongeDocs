@@ -2,13 +2,13 @@
 Setting Up IntelliJ IDEA
 ========================
 
-This article describes how to configure your **IntelliJ IDEA** workspace for plugin development with the Sponge API.
+This article describes how to configure your **IntelliJ IDEA** workspace for plugin development with the SpongeAPI.
 
 Starting Your Project
 =====================
 
-We recommend using Gradle or Maven when developing plugins with the Sponge API. Gradle and Maven help significantly when
-managing dependencies, such as the Sponge API, for your project. This is preferable to including the ``.jar`` file in
+We recommend using Gradle or Maven when developing plugins with the SpongeAPI. Gradle and Maven help significantly when
+managing dependencies, such as the SpongeAPI, for your project. This is preferable to including the ``.jar`` file in
 your project.
 
 Gradle
@@ -27,7 +27,7 @@ Gradle
 
 * Click ``Next`` twice, name your project, and click ``Finish``.
 
-**To import the Sponge API as a dependency:**
+**To import the SpongeAPI as a dependency:**
 
 * Open ``build.gradle`` in the navigator and add the dependencies.
 * Have a look at the :doc:`dependencies page <dependencies>` for an example Gradle file.
@@ -51,12 +51,12 @@ Maven
 * Click ``Next``.
 * Enter your project's name, and click ``Finish``.
 
-**To import the Sponge API as a dependency:**
+**To import the SpongeAPI as a dependency:**
 
 * Open ``pom.xml`` in the navigator.
 * With the editor tab in focus, choose ``Code > Generate``.
 * Click ``Dependency`` in the popup.
-* Search for the :doc:`official Sponge API Maven artifact <dependencies>` under **Search by artifact**, and click ``Add``.
+* Search for the :doc:`official SpongeAPI Maven artifact <dependencies>` under **Search by artifact**, and click ``Add``.
 * Import the Maven changes, if prompted.
 
 Git Integration

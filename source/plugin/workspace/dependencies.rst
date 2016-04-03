@@ -1,9 +1,9 @@
 
 ==============================
-Adding Sponge API Dependencies
+Adding SpongeAPI Dependencies
 ==============================
 
-You must add the Sponge API as a dependency to your plugin in order to create a plugin with it.
+You must add the SpongeAPI as a dependency to your plugin in order to create a plugin with it.
 
 The following information may come in handy when you are setting up a project with Maven or Gradle.
 
